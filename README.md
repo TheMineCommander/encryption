@@ -39,6 +39,7 @@ Open the program, and choose to either encrypt or decrypt.
 
 
 --DISCLAIMERS
+
 This is a BETA. USE AS INTENDED. (No warranty is provided and bugs may occur. I am not responsible for anything.)
 This isn't meant for encryption of truly sensitive data, just for codes and puzzles. While it is secure, it is not as secure as many public key encryptions. BE CAREFUL. 
 I do not take responsibility if your code is cracked and someone reads whatever you encrypted.
