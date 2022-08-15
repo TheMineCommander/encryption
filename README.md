@@ -3,22 +3,38 @@ This is meant for use by anyone that can read and type. And that can save files.
 This DOES NOT save the decrypted message to your computer in an attempt to be as secure as possible.
 
 --HOW TO USE
+
 Open the program, and choose to either encrypt or decrypt.
-  -Encrypt
-    Type the message you want encrypted
-    Hit OK
-    Type your password - the longer the better!
-    Hit OK
-    Pick a place and name for the file you are creating.
-    Hit OK
-    Share the file as you will
+
+   -Encrypt
+
+   Type the message you want encrypted
+  
+   Hit OK
+   
+   Type your password - the longer the better!
+  
+   Hit OK
+   
+   Pick a place and name for the file you are creating.
+   
+   Hit OK
+   
+   Share the file as you will
+   
    -Decrypt
-    Type the password for the encrypted file
-    Hit OK
-    Choose the file to decrypt
-    Hit OK
-    Read your message
-    Hit OK
+   
+   Type the password for the encrypted file
+   
+   Hit OK
+   
+   Choose the file to decrypt
+   
+   Hit OK
+   
+   Read your message
+   
+   Hit OK
      
 
 
